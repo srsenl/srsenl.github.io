@@ -4,8 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Location": "Avista of Edmond SubMarket",
-        "ID": "SubMarket Avista of Edmond"
+        "ID": "SubMarket Avista of Edmond",
+        "SubMarket": "Avista of Edmond SubMarket",
+        "Location": "Avista of Edmond"
       },
       "geometry": {
         "type": "Polygon",
@@ -38,8 +39,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Location": "35 West SubMarket",
-        "ID": "SubMarket 35 West"
+        "ID": "SubMarket 35 West",
+        "SubMarket": "35 West SubMarket",
+        "Location": "35 West"
       },
       "geometry": {
         "type": "Polygon",
