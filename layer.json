@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-        "Location": "Avista of Edmond SubMarket"
+        "Location": "Avista of Edmond SubMarket",
+        "ID": "SubMarket Avista of Edmond"
       },
       "geometry": {
         "type": "Polygon",
