@@ -4,38 +4,33 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#173ed9",
-        "fill-opacity": 1,
-        "ID": "SubMarket Avista of Edmond",
-        "SubMarket": "Avista of Edmond SubMarket",
-        "Location": "Avista of Edmond"
+        "ID": "SubMarket 35 West",
+        "SubMarket": "35 West SubMarket",
+        "Location": "35 West "
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -97.49593734741211,
-              35.62374474567132
+              -97.60047912597656,
+              35.29425160416851
             ],
             [
-              -97.42469787597656,
-              35.62374474567132
+              -97.40598678588867,
+              35.29425160416851
             ],
             [
-              -97.42469787597656,
-              35.66740776268846
+              -97.40598678588867,
+              35.39352808136067
             ],
             [
-              -97.49593734741211,
-              35.66740776268846
+              -97.60047912597656,
+              35.39352808136067
             ],
             [
-              -97.49593734741211,
-              35.62374474567132
+              -97.60047912597656,
+              35.29425160416851
             ]
           ]
         ]
@@ -44,38 +39,488 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#173ed9",
-        "fill-opacity": 1,
-        "ID": "SubMarket 35 West",
-        "SubMarket": "35 West SubMarket",
-        "Location": "35 West"
+        "ID": "SubMarket Haydens Landing",
+        "SubMarket": "Haydens Landing SubMarket",
+        "Location": "Haydens Landing"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              -97.52979755401611,
-              35.33434793989742
+              -97.5479507446289,
+              35.348315703752654
             ],
             [
-              -97.51237392425537,
-              35.304934229692115
+              -97.44083404541016,
+              35.348315703752654
             ],
             [
-              -97.48207569122314,
-              35.31967743850535
+              -97.44083404541016,
+              35.38709071365223
             ],
             [
-              -97.48997211456299,
-              35.33424290997097
+              -97.5479507446289,
+              35.38709071365223
             ],
             [
-              -97.52979755401611,
-              35.33434793989742
+              -97.5479507446289,
+              35.348315703752654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SubMarket Flats On May",
+        "SubMarket": "Flats On May SubMarket",
+        "Location": "Flats On May"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.60099411010742,
+              35.38457160381764
+            ],
+            [
+              -97.4849510192871,
+              35.38457160381764
+            ],
+            [
+              -97.4849510192871,
+              35.43577803767836
+            ],
+            [
+              -97.60099411010742,
+              35.43577803767836
+            ],
+            [
+              -97.60099411010742,
+              35.38457160381764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SubMarket Cypress Point",
+        "SubMarket": "Cypress Point SubMarket ",
+        "Location": "Cypress Point "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -96.95795059204102,
+              35.33935420807121
+            ],
+            [
+              -96.87606811523438,
+              35.33935420807121
+            ],
+            [
+              -96.87606811523438,
+              35.36994521770037
+            ],
+            [
+              -96.95795059204102,
+              35.36994521770037
+            ],
+            [
+              -96.95795059204102,
+              35.33935420807121
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SubMarket Sherwood Pointe",
+        "SubMarket": "Sherwood Pointe SubMarket ",
+        "Location": "Sherwood Pointe "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -96.96541786193848,
+              35.339284192473
+            ],
+            [
+              -96.87623977661133,
+              35.339284192473
+            ],
+            [
+              -96.87623977661133,
+              35.40542186535412
+            ],
+            [
+              -96.96541786193848,
+              35.40542186535412
+            ],
+            [
+              -96.96541786193848,
+              35.339284192473
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SubMarket The Aberdeen",
+        "SubMarket": " The Aberdeen SubMarket",
+        "Location": " The Aberdeen"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.52559185028076,
+              35.46427025098907
+            ],
+            [
+              -97.50078678131104,
+              35.46427025098907
+            ],
+            [
+              -97.50078678131104,
+              35.49739941995118
+            ],
+            [
+              -97.52559185028076,
+              35.49739941995118
+            ],
+            [
+              -97.52559185028076,
+              35.46427025098907
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SubMarket Villa Gardens",
+        "SubMarket": "Villa Gardens SubMarket",
+        "Location": "Villa Gardens"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.46555328369139,
+              35.43920462878252
+            ],
+            [
+              -97.37079620361328,
+              35.43920462878252
+            ],
+            [
+              -97.37079620361328,
+              35.49331143202214
+            ],
+            [
+              -97.46555328369139,
+              35.49331143202214
+            ],
+            [
+              -97.46555328369139,
+              35.43920462878252
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SubMarket Sandhills",
+        "SubMarket": "Sandhills SubMarket ",
+        "Location": "Sandhills "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.47774124145506,
+              35.46388576067085
+            ],
+            [
+              -97.35277175903319,
+              35.46388576067085
+            ],
+            [
+              -97.35277175903319,
+              35.49352107748888
+            ],
+            [
+              -97.47774124145506,
+              35.49352107748888
+            ],
+            [
+              -97.47774124145506,
+              35.46388576067085
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SubMarket Uptown at Kelly",
+        "SubMarket": "Uptown at Kelly SubMarket ",
+        "Location": "Uptown at Kelly"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.51413345336914,
+              35.4977837499988
+            ],
+            [
+              -97.47679710388184,
+              35.4977837499988
+            ],
+            [
+              -97.47679710388184,
+              35.55129247928427
+            ],
+            [
+              -97.51413345336914,
+              35.55129247928427
+            ],
+            [
+              -97.51413345336914,
+              35.4977837499988
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SubMarket Vintage at 50th",
+        "SubMarket": "Vintage at 50th SubMarket ",
+        "Location": "Vintage at 50th"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.6014232635498,
+              35.507496208011815
+            ],
+            [
+              -97.53722190856934,
+              35.507496208011815
+            ],
+            [
+              -97.53722190856934,
+              35.537045598427795
+            ],
+            [
+              -97.6014232635498,
+              35.537045598427795
+            ],
+            [
+              -97.6014232635498,
+              35.507496208011815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SubMarket Coffee Creek",
+        "SubMarket": "Coffee Creek SubMarket ",
+        "Location": "Coffee Creek "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.50743865966797,
+              35.62360520897789
+            ],
+            [
+              -97.47842788696289,
+              35.62360520897789
+            ],
+            [
+              -97.47842788696289,
+              35.66803533173194
+            ],
+            [
+              -97.50743865966797,
+              35.66803533173194
+            ],
+            [
+              -97.50743865966797,
+              35.62360520897789
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SubMarket Reeds Landing",
+        "SubMarket": "Reeds Landing SubMarket ",
+        "Location": "Reeds Landing"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.51413345336914,
+              35.63860400953968
+            ],
+            [
+              -97.4428939819336,
+              35.63860400953968
+            ],
+            [
+              -97.4428939819336,
+              35.68225890670173
+            ],
+            [
+              -97.51413345336914,
+              35.68225890670173
+            ],
+            [
+              -97.51413345336914,
+              35.63860400953968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SubMarket Victoria Park",
+        "SubMarket": "Victoria Park SubMarket ",
+        "Location": "Victoria Park "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.49602317810059,
+              35.63860400953968
+            ],
+            [
+              -97.44272232055664,
+              35.63860400953968
+            ],
+            [
+              -97.44272232055664,
+              35.68198003744061
+            ],
+            [
+              -97.49602317810059,
+              35.68198003744061
+            ],
+            [
+              -97.49602317810059,
+              35.63860400953968
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SubMarket Oxford Oaks ",
+        "SubMarket": "Victoria Park SubMarket ",
+        "Location": "Victoria Park "
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.53232955932616,
+              35.63839474331116
+            ],
+            [
+              -97.44220733642577,
+              35.63839474331116
+            ],
+            [
+              -97.44220733642577,
+              35.667198571910966
+            ],
+            [
+              -97.53232955932616,
+              35.667198571910966
+            ],
+            [
+              -97.53232955932616,
+              35.63839474331116
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "SubMarket Avista of Edmond",
+        "SubMarket": "Avista of Edmond SubMarket ",
+        "Location": "Avista of Edmond"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -97.53250122070312,
+              35.63846449878154
+            ],
+            [
+              -97.44237899780273,
+              35.63846449878154
+            ],
+            [
+              -97.44237899780273,
+              35.66733803249021
+            ],
+            [
+              -97.53250122070312,
+              35.66733803249021
+            ],
+            [
+              -97.53250122070312,
+              35.63846449878154
             ]
           ]
         ]
