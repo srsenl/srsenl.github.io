@@ -4,6 +4,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#3a42df",
+        "fill-opacity": 0.5,
         "ID": "SubMarket 35 West",
         "SubMarket": "35 West SubMarket",
         "Location": "35 West "
@@ -39,6 +44,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#470af0",
+        "fill-opacity": 0.5,
         "ID": "SubMarket Haydens Landing",
         "SubMarket": "Haydens Landing SubMarket",
         "Location": "Haydens Landing"
@@ -74,6 +84,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0631e0",
+        "fill-opacity": 0.5,
         "ID": "SubMarket Flats On May",
         "SubMarket": "Flats On May SubMarket",
         "Location": "Flats On May"
@@ -144,6 +159,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#3a3ae4",
+        "fill-opacity": 0.5,
         "ID": "SubMarket Sherwood Pointe",
         "SubMarket": "Sherwood Pointe SubMarket ",
         "Location": "Sherwood Pointe "
@@ -179,6 +199,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#1278ed",
+        "fill-opacity": 0.5,
         "ID": "SubMarket The Aberdeen",
         "SubMarket": " The Aberdeen SubMarket",
         "Location": " The Aberdeen"
@@ -214,6 +239,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#021aed",
+        "fill-opacity": 0.5,
         "ID": "SubMarket Villa Gardens",
         "SubMarket": "Villa Gardens SubMarket",
         "Location": "Villa Gardens"
@@ -249,6 +279,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0a3de6",
+        "fill-opacity": 0.5,
         "ID": "SubMarket Sandhills",
         "SubMarket": "Sandhills SubMarket ",
         "Location": "Sandhills "
@@ -284,6 +319,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#1580f9",
+        "fill-opacity": 0.5,
         "ID": "SubMarket Uptown at Kelly",
         "SubMarket": "Uptown at Kelly SubMarket ",
         "Location": "Uptown at Kelly"
@@ -319,6 +359,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#1749ee",
+        "fill-opacity": 0.5,
         "ID": "SubMarket Vintage at 50th",
         "SubMarket": "Vintage at 50th SubMarket ",
         "Location": "Vintage at 50th"
@@ -354,6 +399,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#094bf1",
+        "fill-opacity": 0.5,
         "ID": "SubMarket Coffee Creek",
         "SubMarket": "Coffee Creek SubMarket ",
         "Location": "Coffee Creek "
@@ -389,6 +439,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#0b88ef",
+        "fill-opacity": 0.5,
         "ID": "SubMarket Reeds Landing",
         "SubMarket": "Reeds Landing SubMarket ",
         "Location": "Reeds Landing"
@@ -424,6 +479,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#1023cb",
+        "fill-opacity": 0.5,
         "ID": "SubMarket Victoria Park",
         "SubMarket": "Victoria Park SubMarket ",
         "Location": "Victoria Park "
@@ -494,6 +554,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#117dd4",
+        "fill-opacity": 0.5,
         "ID": "SubMarket Avista of Edmond",
         "SubMarket": "Avista of Edmond SubMarket ",
         "Location": "Avista of Edmond"
